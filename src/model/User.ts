@@ -19,6 +19,11 @@ const userSchema = new Schema ({
         required: false,
         type: Schema.Types.String,
         default: "User",
+    },
+    password_reset_token: {
+        required: false,
+        type: Schema.Types.String,
+        trim: true,
     }
 });
 
