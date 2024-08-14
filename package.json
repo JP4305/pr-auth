@@ -14,7 +14,7 @@
     "@react-email/text": "0.0.7",
     "@types/mongoose": "^5.11.97",
     "@vinejs/vine": "^1.7.0",
-    "axios": "^1.6.2",
+    "axios": "^1.7.4",
     "bcryptjs": "^2.4.3",
     "crypto-random-string": "^5.0.0",
     "cryptr": "^6.3.0",
